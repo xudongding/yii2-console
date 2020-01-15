@@ -1,5 +1,5 @@
 {
-    "name": "yii2_console",
+    "name": "yii2_sample/yii2_console",
     "type": "project",
     "require": {
         "php": ">=5.6.0",
